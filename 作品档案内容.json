@@ -1,0 +1,176 @@
+[
+  {
+    "id": "X-001",
+    "title": "一江润荆楚，网络守清流",
+    "en": "Clear Waters, Clear Cyberspace",
+    "department": "广告创意",
+    "category": "广告创意",
+    "date": "2026.9",
+    "lead": "陶思羽 / Sally Siyu Tao",
+    "clearance": "PROJECT ARCHIVE",
+    "abstract": "围绕网络文明公益传播主题，以“清流”的双关连接长江水文化与文明上网理念。山水、江豚与中华鲟建立荆楚地域识别，江流串联画面层次，红色主题文案突出公益主张。",
+    "findings": [
+      "项目来自2026年湖北“新时代网络文明公益广告”作品征集，面向社会公众，尤其是青少年网民，倡导共同维护清朗网络空间。创作任务是在单幅平面广告中兼顾地域文化特色、主题辨识与日常传播需求。",
+      "“润”表达江水对荆楚大地的滋养，“守”指向每个人维护网络文明的责任。画面上方以山体与雾气营造地域意境，青绿色江流横贯中部，江豚与中华鲟分布其间；下方以红色突出“网络守清流”，增强视觉醒目程度，使公益主张更易被注意和记住。",
+      "完成一张A3竖版公益海报，拟用于校园与社区宣传栏及移动端传播，面向社会公众，尤其是青少年网民。竖版画面保留完整的纵向阅读顺序，使公益主张融入日常观看场景。WorkBuddy辅助纹理渲染与排布的代码实现。"
+    ],
+    "source": "documents/clear-current-portfolio.pdf",
+    "pages": [
+      "siyu/poster-portfolio-1.jpg?v=202609",
+      "siyu/poster-portfolio-2.jpg",
+      "siyu/poster-portfolio-3.jpg",
+      "siyu/poster-portfolio-4.jpg",
+      "siyu/poster-portfolio-5.jpg"
+    ],
+    "cover": "siyu/asset-poster.jpg",
+    "pageNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "document": "documents/clear-current-portfolio.pdf",
+    "study": {
+      "context": "网络文明强调公共交流秩序与个体责任，荆楚山水则具有鲜明的地域辨识度。本项目的核心问题，是如何建立二者在主题与视觉表达上的联系，避免地域元素停留于装饰层面，或使传播主题偏向生态保护。海报以“清流”的双重含义连接清澈江水与清朗网络，并通过“润”与“守”的对应关系，将自然滋养引向公众责任。在单幅画面的信息组织中，江豚与中华鲟承载生命与守护的意涵，青绿色江流串联视觉层次，红色主题文案明确网络文明倡议。设计旨在兼顾地域识别与主题辨识，使自然意象与公益主张形成相互支撑的表达关系。",
+      "research": "公告的普通平面作品要求为JPG、RGB、A3（297 × 420 mm）、300 dpi，横竖版不限，文件不超过10 MB。作品采用A3竖版形式，由上方山体、中部江流与水生动物，引向下方的主题文案；“网络守清流”使用红色，与浅色背景形成鲜明对比，突出宣传重点。",
+      "design": "“润”表达江水对荆楚大地的滋养，“守”指向每个人维护网络文明的责任。画面上方以山体与雾气营造地域意境，青绿色江流横贯中部，江豚与中华鲟分布其间；下方以红色突出“网络守清流”，增强视觉醒目程度，使公益主张更易被注意和记住。",
+      "flow": "从上方山体与雾气、中部江流与水生动物，读向下方的主题文案。红色“网络守清流”突出公益倡议，增强传播中的视觉辨识。",
+      "scope": "完成一张A3竖版公益海报，拟用于校园与社区宣传栏及移动端传播，面向社会公众，尤其是青少年网民。竖版画面保留完整的纵向阅读顺序，使公益主张融入日常观看场景。WorkBuddy辅助纹理渲染与排布的代码实现。"
+    },
+    "focus": "“清流”双关 / 荆楚地域识别 / 公益主张",
+    "methods": "文案构思 / 地域意象 / 视觉层级",
+    "deliverables": [
+      "A3竖版网络文明公益广告海报"
+    ],
+    "projectType": "网络文明公益广告 · 平面创作",
+    "contentNote": "",
+    "pageLabels": [
+      "成品展示",
+      "项目立意",
+      "视觉语言",
+      "文案创意与传播对象",
+      "本人职责与创作方法"
+    ],
+    "originalImage": "siyu/asset-poster.jpg",
+    "overviewContext": "项目来自2026年湖北“新时代网络文明公益广告”作品征集，面向社会公众，尤其是青少年网民，倡导共同维护清朗网络空间。创作任务是在单幅平面广告中兼顾地域文化特色、主题辨识与日常传播需求。"
+  },
+  {
+    "id": "X-002",
+    "title": "个人档案馆",
+    "en": "Siyu’s Archive",
+    "department": "交互设计",
+    "category": "交互设计",
+    "date": "2026.11",
+    "lead": "陶思羽 / Sally Siyu Tao",
+    "clearance": "PROJECT ARCHIVE",
+    "abstract": "以“私人档案”为概念的个人叙事与作品展示网站。将照片、个人介绍、创作案例和写给未来的信组织成可逐章翻阅的纸页，让访客从拆信、翻阅到归档，逐步认识我的经历与创作取向。",
+    "findings": [
+      "以个人网站回应“如何被认识”的问题。将经历、作品与未来书信收进私人档案，使访客在阅读内容的同时，感知我的审美与叙事方式。",
+      "信封、文件夹、相框与胶带构成纸物视觉；奶油色底、粉蓝纸页与深棕文字统一层次，让个人资料获得可翻阅的触感与亲近感。",
+      "完成七个主页面与两个项目详情页，通过GitHub Pages发布。本人负责概念、内容、视觉与交互决策，Codex辅助代码实现与迭代。"
+    ],
+    "source": "https://sallysiiiyu-coder.github.io/siyus-archive/",
+    "pages": [
+      "siyu/archive-prelude.png",
+      "siyu/archive-menu.png",
+      "siyu/archive-about.png",
+      "siyu/archive-resonance.png",
+      "siyu/archive-future.png",
+      "siyu/archive-process.png",
+      "siyu/archive-bye.png",
+      "siyu/archive-archive-project.png",
+      "siyu/archive-course-project.png"
+    ],
+    "cover": "siyu/asset-prelude.jpg",
+    "pageNumbers": [],
+    "document": "documents/siyu-portfolio.pdf",
+    "study": {
+      "context": "个人档案同时包含照片、履历、创作案例与未来书信，不同内容对应不同的阅读目的与信息深度。项目的核心问题，是如何兼顾访客的自主选择与浏览路径的清晰性，并使纸物交互承担内容组织功能。网站将个人介绍、作品、未来书信与创作过程划分为四个章节，以目录提供统一入口；作品内容依次通过卡片、详情页与图片放大呈现，区分概览与深入阅读的层次。信封、文件夹与相框分别对应叙事开场、章节入口与照片展示，Menu 与 Back 则提供明确的返回路径。上述安排旨在协调个人叙事的情感表达与作品查阅的功能需求，使视觉形式、内容层级与操作逻辑保持一致。",
+      "research": "将内容划分为个人介绍、作品、未来书信与创作过程四个章节，以目录统筹入口、以返回路径维持连续阅读。",
+      "design": "信封、文件夹、相框与胶带构成纸物视觉；奶油色底、粉蓝纸页与深棕文字统一层次，让个人资料获得可翻阅的触感与亲近感。",
+      "flow": "拆信进入 → 目录选章 → 阅读个人档案与项目 → 放大查看作品 → 收起归档。目录集中呈现四个章节，访客可按兴趣选择入口；项目卡衔接详情页，图片可单独放大，便于在整体浏览与细节查看之间切换。Menu 与 Back 提供清晰的往返路径，页面淡入淡出、信封展开与卡片悬停反馈衔接操作，使浏览节奏连贯，并让下一步去向保持明确。最后以“收好档案”呼应开场的拆信，为整段阅读形成完整的收束。",
+      "scope": "完成七个主页面与两个项目详情页，通过GitHub Pages发布。本人负责概念、内容、视觉与交互决策，Codex辅助代码实现与迭代。"
+    },
+    "focus": "拆信叙事 / 纸物视觉 / 档案式信息架构",
+    "methods": "叙事结构 / 信息分层 / 交互迭代",
+    "deliverables": [
+      "个人叙事交互网站",
+      "七个主页面与两个项目详情页"
+    ],
+    "projectType": "自主策划 · 个人叙事交互设计",
+    "contentNote": "",
+    "pageLabels": [
+      "信封开场",
+      "拼贴目录",
+      "个人档案",
+      "作品章节",
+      "未来书信",
+      "创作过程",
+      "归档结尾",
+      "公益海报详情",
+      "网页工具详情"
+    ],
+    "readerPages": [
+      "siyu/archive-prelude-vector.svg?v=3",
+      "siyu/archive-menu-vector.svg?v=3",
+      "siyu/archive-about-vector.svg?v=3",
+      "siyu/archive-resonance-vector.svg?v=3",
+      "siyu/archive-future-vector.svg?v=3",
+      "siyu/archive-process-vector.svg?v=3",
+      "siyu/archive-bye-vector.svg?v=3",
+      "siyu/archive-archive-project-vector.svg?v=3",
+      "siyu/archive-course-project-vector.svg?v=3"
+    ],
+    "overviewContext": "以个人网站回应“如何被认识”的问题。将经历、作品与未来书信收进私人档案，使访客在阅读内容的同时，感知我的审美与叙事方式。"
+  },
+  {
+    "id": "X-003",
+    "title": "灰度之外的琴声",
+    "en": "BEYOND GRAYSCALE",
+    "department": "创意媒体",
+    "category": "创意媒体",
+    "date": "2025.11",
+    "lead": "陶思羽 / Sally Siyu Tao",
+    "clearance": "PROJECT ARCHIVE",
+    "abstract": "短片围绕摄影学生林溪与钢琴学生苏雨展开：一人因色觉差异与社交焦虑陷入自我怀疑，一人被完美主义束缚。两人通过照片与琴声重新理解彼此，在同伴支持中学习接纳不完美。相机、照片与琴房贯穿叙事，将心理成长写成相互看见的过程。",
+    "findings": [
+      "回应“逐光而行，影述心声”赛事主题，以自我怀疑与同伴支持构建双人物叙事。",
+      "陶思羽参与导演与编剧创作。",
+      "作品获艺术学院三等奖（团队）。"
+    ],
+    "source": "documents/film-script-storyboard.docx",
+    "pages": [
+      "siyu/asset-film-cover.jpg",
+      "siyu/film-award-original.jpg"
+    ],
+    "cover": "siyu/asset-film-cover.jpg",
+    "pageNumbers": [],
+    "document": "documents/film-script-storyboard.docx",
+    "study": {
+      "context": "短片需要在约五分钟的篇幅内建立两位人物的心理困境，并为关系发展与认知转变提供充分的叙事依据。林溪将色觉差异归因为摄影能力不足，苏雨则因难以达到“灵气”的要求而否定自身努力，二者共同体现了单一评价标准对自我认同的限制。剧作的关键问题，是如何通过具体情节呈现同伴支持的作用，避免以安慰性对话替代人物成长。折叠摄影比赛海报、在琴房门外迟疑、拍摄演奏照片等行动，依次呈现退缩、接近与重新尝试；照片及双方的交流，为色彩准确性与演奏标准之外的情感表达提供了观察角度。结尾以继续创作及音乐会邀约呈现人物重新参与艺术实践的意愿，使心理变化获得行动层面的支撑，并保留后续成长的开放性。",
+      "research": "从赛事对心理冲突与协调解决过程的要求出发，构建相互映照的人物线：林溪对色彩与表达的自我怀疑，苏雨对“完美演奏”的压力。",
+      "design": "以雨滴玻璃、琴键与照片特写呈现人物处境；从隔门观察，到琴房并坐、校园同行，通过空间距离的变化呈现关系的靠近。",
+      "flow": "以受挫、观察、对话与相互支持推进故事，将“被评价”转向“被理解”，以校园同行收束人物关系。",
+      "scope": "完成约5分01秒原创剧情短片。本人参与导演与编剧创作，作品获艺术学院三等奖（团队）。"
+    },
+    "focus": "人物心理叙事、摄影与钢琴的意象呼应、校园空间中的情绪表达",
+    "methods": "人物关系构建、心理冲突推进、视觉意象与场景组织",
+    "deliverables": [
+      "约5分01秒原创剧情短片",
+      "剧本与分镜文本",
+      "联合导演创作"
+    ],
+    "projectType": "心理主题剧情短片 · 团队联合创作",
+    "contentNote": "",
+    "pageLabels": [
+      "影片封面",
+      "获奖证书"
+    ],
+    "documentLabel": "剧本与分镜",
+    "video": "documents/beyond-grayscale-web.mp4",
+    "notice": "documents/film-competition-notice.pdf",
+    "scriptReader": "documents/film-script-storyboard.html",
+    "overviewContext": "为三峡大学第九届心理微电影大赛创作，以“逐光而行，影述心声”为命题，聚焦大学生的心理冲突与自我成长。影片以摄影与钢琴两种艺术实践相互映照：色觉差异使林溪质疑自身的表达能力，对“灵气”的执念则让苏雨陷入反复的自我审视。两人的困境共同指向外界评价与自我认同之间的张力。照片与琴声成为彼此理解的媒介，使她们逐渐从对技巧与标准的追逐，转向对情感与个体经验的确认。作品由此探讨同伴理解如何松动自我否定，让不完美成为个人表达的起点。"
+  }
+]

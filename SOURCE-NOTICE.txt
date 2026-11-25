@@ -1,0 +1,1 @@
+Interface and runtime adapted from kirahook/KIRAHOOK-CV-Web, commit 1c2b872. Original MIT copyright LBEILC retained in LICENSE. Personal project content replaced with Siyu Tao materials.

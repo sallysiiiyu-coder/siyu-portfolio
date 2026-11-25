@@ -1,0 +1,478 @@
+{
+  "intro": [
+    {
+      "label": "Sally TAO",
+      "title": "陶思羽",
+      "date": "个人概况",
+      "summary": "AI 创意策划 · 数字媒体创意 · 互动内容设计",
+      "details": [
+        "三峡大学音乐学专业本科在读，预计 2028 年 6 月毕业。",
+        "辅修 AI 短视频与创意策划微专业，已选课程包括创意写作与故事策划、AI 短视频创作、智能剪辑与后期制作、大模型与智能新媒体前沿。",
+        "创作实践涵盖公益广告、个人交互网站与心理微电影，主要涉及主题策划、文案构思、视觉设计及影像叙事。",
+        "求职意向：AI 创意策划、数字媒体创意、互动内容设计相关寒假实习。"
+      ],
+      "image": "siyu/profile-portrait-original.jpg",
+      "imageKind": "portrait",
+      "imageAlt": "陶思羽个人照片",
+      "imageCaption": "Sally / 陶思羽",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "联系方式",
+      "title": "联系方式",
+      "date": "联络信息",
+      "summary": "",
+      "details": [
+        "邮箱：15391588348@qq.com",
+        "电话：15391588348",
+        "微信：lululucy_sy0428",
+        "QQ：2390998963"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "联系方式",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "HOBBIES & SKILLS",
+      "title": "爱好与技能",
+      "date": "爱好与技能",
+      "summary": "以音乐专业训练为基础，结合视觉审美、叙事策划与 UI／交互设计开展跨媒介创作。",
+      "details": [
+        "音乐与兴趣：具备钢琴、扬琴演奏基础，关注音乐、影像与视觉叙事中的节奏及情感表达。",
+        "数字创作兴趣：热衷于 Vibe Coding，将创意构想细化为设计需求，与 AI 协作完成网页及交互原型，并通过预览检查与反馈持续优化。",
+        "视觉审美：在公益海报与个人网站中开展构图、配色、字体搭配及信息层级设计，重视视觉风格与内容主题的一致性。",
+        "UI 与交互设计：参与网页信息架构、界面布局、导航路径及交互反馈设计，通过页面预览与迭代调整优化内容呈现和操作连贯性。",
+        "创意与叙事：结合项目主题提炼核心概念，完成文案构思与故事策划；参与《灰度之外的琴声》的导演与编剧创作。",
+        "学习与实践：加权平均成绩 90.2/100，专业排名 3/84，连续两学年获一等奖学金及“三好学生”称号；在音乐专业学习之外修读 AI 创意课程，并将所学用于网页、视觉与影像项目。",
+        "工具应用：使用 Codex、WorkBuddy 辅助代码实现与创作迭代，结合 Figma、Lovart 开展界面与视觉设计。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "技能与创作兴趣",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "CREATIVE APPROACH",
+      "title": "让观看成为参与",
+      "date": "创作理念",
+      "summary": "通过叙事结构、媒介形式与交互设计，建立观众理解内容的路径。",
+      "details": [
+        "音乐学习使我关注节奏、停顿与情绪变化。在影像与交互创作中，我将这些经验用于组织情节、安排阅读顺序及控制信息呈现节奏。",
+        "媒介形式需要与内容目标相适应。公益海报通过文案与构图明确主题，短片通过人物关系与场景推进叙事，个人网站则通过目录、章节与详情页组织阅读。",
+        "后续希望结合互动叙事、影像与 AI 辅助创作，从可体验的原型开展实践，并依据实际体验反馈调整内容与交互。创作判断与输出审核由本人承担。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "让形式参与表达",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "AVAILABILITY",
+      "title": "寒假实习安排",
+      "date": "到岗安排",
+      "summary": "2026—2027 学年寒假，最早可于 2027 年 1 月 17 日到岗。",
+      "details": [],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "寒假实习安排",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "EDUCATION",
+      "title": "三峡大学 · 音乐学本科",
+      "date": "预计 2028.06 毕业",
+      "summary": "音乐教育方向，本科三年级在读。",
+      "details": [
+        "辅修 AI 短视频与创意策划微专业。",
+        "专业创作实践涉及公益广告、交互网站与心理微电影。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "三峡大学 · 音乐学本科",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "ACADEMIC RECORD",
+      "title": "学业成绩",
+      "date": "学业成绩",
+      "summary": "加权平均成绩 90.2/100；专业排名 3/84（前 4%）。",
+      "details": [
+        "平均学分绩点（GPA）：3.47/4.0。",
+        "2024—2025、2025—2026 学年连续获三峡大学一等奖学金及“三好学生”称号。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "学业成绩",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "LANGUAGE",
+      "title": "语言与办公应用",
+      "date": "语言与办公应用",
+      "summary": "通过大学英语四级；普通话水平测试二级甲等。",
+      "details": [
+        "大学英语四级：2026 年 6 月通过。",
+        "普通话水平测试：二级甲等，2024 年 12 月获证。",
+        "全国计算机等级考试二级：WPS Office 高级应用与设计，2026 年 3 月通过。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "语言与通用能力",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    }
+  ],
+  "internships": [
+    {
+      "label": "NEW MEDIA",
+      "title": "艺术学院新媒体中心 · 运营组干事",
+      "date": "2024.09—2025.09",
+      "summary": "参与学院官方账号内容运营与活动宣传。",
+      "details": [
+        "参与活动拍摄、视频剪辑、推文与海报制作，协助完成宣传素材整理及内容发布跟进。",
+        "2025 年获评艺术学院新媒体中心“优秀部员”。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "艺术学院新媒体中心 · 部员",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "PUBLICITY",
+      "title": "老兵协会网络宣传部 · 副部长",
+      "date": "2025.09—2026.06",
+      "summary": "负责协会线上宣传，参与活动影像记录与宣传内容制作。",
+      "details": [
+        "负责官方抖音账号内容策划与制作，承担活动拍摄、短视频制作及公众号排版，累计发布宣传内容 10 余篇。",
+        "曾任网络宣传部干事（2024—2025 学年），后任副部长（2025—2026 学年）。",
+        "先后获“优秀干事”“优秀部长”及“每月之星”表彰。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "老兵协会网络宣传部 · 副部长",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "CLASS SERVICE",
+      "title": "学习兼纪检委员",
+      "date": "2024.06 起",
+      "summary": "担任学习兼纪检委员，协助开展班级学风建设、日常事务管理及纪律工作。",
+      "details": [],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "学习兼纪检委员",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "STUDENT ASSISTANT",
+      "title": "教学办学生助理",
+      "date": "2024.09 起",
+      "summary": "协助教学办公室开展文书处理、信息核对及日常行政事务。",
+      "details": [
+        "资料与文书：整理、分类及归档教学相关材料，完成资料打印、复印、扫描及电子文件整理。",
+        "数据处理：开展表格录入、信息核对与汇总，协助维护日常教学事务记录。",
+        "沟通协调：协助传达通知、对接师生事务及跟进事项，支持日常信息流转。",
+        "会议与办公支持：协助会议准备及相关事务安排，使用打印机、扫描仪等办公设备完成日常文印工作。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "教学办学生助理",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "VOLUNTEER",
+      "title": "校内及社区志愿服务",
+      "date": "2024.09 起",
+      "summary": "参与校内与社区志愿服务，累计志愿服务时长 205.48 小时（“志愿汇”平台记录）。",
+      "details": [
+        "校园服务：参与 2025 级新生军训志愿服务、“古籍进校园”“退伍老兵进课堂”及“军旅体验日”等活动。",
+        "荣誉表彰：2026 年 5 月获三峡大学 2025—2026 学年“五·四”表彰“优秀青年志愿者”称号。"
+      ],
+      "image": "siyu/volunteer-hours-original-crop.png",
+      "imageKind": "photo",
+      "imageAlt": "志愿汇平台累计志愿服务时长205.48小时",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-volunteer-hours"
+      ]
+    }
+  ],
+  "competitions": [
+    {
+      "label": "SHORT FILM",
+      "title": "三峡大学第九届心理微电影大赛",
+      "date": "2025.11",
+      "summary": "作品获艺术学院三等奖（团队奖项）。",
+      "details": [
+        "参赛作品：《灰度之外的琴声》，片长约 5 分 01 秒。",
+        "本人参与导演与编剧创作，负责人物关系、情节结构及场景表达。"
+      ],
+      "image": "siyu/film-award-original.jpg",
+      "imageKind": "photo",
+      "imageAlt": "三峡大学第九届心理微电影大赛",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": "X-003",
+      "showPoints": true,
+      "evidence": [
+        "siyu-film-award"
+      ]
+    },
+    {
+      "label": "ACADEMIC HONORS",
+      "title": "三峡大学一等奖学金及“三好学生”",
+      "date": "2024—2026",
+      "summary": "连续两学年获三峡大学一等奖学金及“三好学生”称号。",
+      "details": [
+        "获奖学年：2024—2025、2025—2026 学年。"
+      ],
+      "image": "siyu/award-scholarship-merit-year1-aligned.png",
+      "imageKind": "photo",
+      "imageAlt": "一等奖学金及“三好学生”荣誉证明",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-scholarship-merit",
+        "siyu-scholarship-merit-year2"
+      ]
+    },
+    {
+      "label": "VOLUNTEER AWARD",
+      "title": "三峡大学“优秀青年志愿者”",
+      "date": "2026.05",
+      "summary": "获三峡大学 2025—2026 学年“五·四”表彰。",
+      "details": [
+        "所获称号：“优秀青年志愿者”；证书日期：2026 年 5 月 4 日。"
+      ],
+      "image": "siyu/award-volunteer-original-crop.png",
+      "imageKind": "photo",
+      "imageAlt": "三峡大学“优秀青年志愿者”",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-volunteer-award"
+      ]
+    },
+    {
+      "label": "MEDIA RECOGNITION",
+      "title": "校园新媒体与社团宣传工作荣誉",
+      "date": "2025—2026",
+      "summary": "获艺术学院新媒体中心及老兵协会网络宣传部表彰。",
+      "details": [
+        "艺术学院新媒体中心：2025 年获评“优秀部员”。",
+        "老兵协会网络宣传部：先后获“优秀干事”“优秀部长”及“每月之星”表彰。"
+      ],
+      "image": "siyu/new-media-recognition-original.jpg",
+      "imageKind": "photo",
+      "imageAlt": "艺术学院新媒体中心优秀工作者表彰名单原图",
+      "imageCaption": "新媒体中心表彰证明",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-new-media-recognition"
+      ],
+      "evidencePlacement": "hover"
+    },
+    {
+      "label": "DANCE COMPETITION",
+      "title": "第六届青少年健身操舞大赛总决赛",
+      "date": "2025.12",
+      "summary": "总决赛特等奖（集体项目）。",
+      "details": [
+        "参赛项目：大众街舞自选动作。",
+        "参赛组别：大学体育院校组大集体。"
+      ],
+      "image": "siyu/award-dance-original-crop.png",
+      "imageKind": "photo",
+      "imageAlt": "第六届青少年健身操舞大赛总决赛",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-dance-award"
+      ]
+    }
+  ],
+  "exhibitions": [
+    {
+      "label": "VIDEO PROJECT",
+      "title": "新视频作品 · 预留",
+      "date": "待更新",
+      "summary": "预留新视频作品位置。",
+      "details": [],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "新视频作品预留位",
+      "imageCaption": "",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "VISUAL DECISIONS",
+      "title": "《一江润荆楚，网络守清流》公益广告海报 · 文案与构图",
+      "date": "2026.9",
+      "summary": "从“清流”的双关推导到整张海报的阅读顺序。",
+      "details": [
+        "以荆楚山水与水生动物建立地域意象，将“清流”的双关融入文案和画面。",
+        "“润”表达自然滋养，“守”指向公共责任；红色主题文字增强醒目程度，突出公益主张。",
+        "本人负责主题立意、文案构思、构图与视觉审核。"
+      ],
+      "image": "siyu/asset-poster.jpg",
+      "imageKind": "photo",
+      "imageAlt": "《一江润荆楚，网络守清流》公益广告海报全貌",
+      "imageCaption": "公益广告海报 / 完整作品",
+      "project": "X-001",
+      "showPoints": true
+    },
+    {
+      "label": "INTERACTIVE ARCHIVE",
+      "title": "个人网站 · 内容与交互",
+      "date": "2026.11",
+      "summary": "信封入口、档案目录、案例详情。",
+      "details": [
+        "将个人介绍与项目资料串在同一条阅读路径。",
+        "以纸物层次、索引和点击展开帮助访问者定位信息。",
+        "本人负责概念、视觉和交互决策，Codex 辅助实现。"
+      ],
+      "image": "siyu/asset-menu.jpg",
+      "imageKind": "photo",
+      "imageAlt": "个人网站 · 内容与交互",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": "X-002",
+      "showPoints": true
+    }
+  ],
+  "academic": [
+    {
+      "label": "MUSIC STUDIES",
+      "title": "三峡大学 · 音乐学本科",
+      "date": "本科",
+      "summary": "加权平均成绩 90.2/100；专业排名 3/84（前 4%）。",
+      "details": [
+        "平均学分绩点（GPA）：3.47/4.0；累计获得 97.5 学分。",
+        "2024—2025、2025—2026 学年连续获校一等奖学金及“三好学生”称号。",
+        "代表性课程成绩：中国音乐史与名作赏析、西方音乐史与名作赏析均为 100 分；多声部音乐分析与写作（三）为 99 分。",
+        "预计 2028 年 6 月毕业。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "三峡大学 · 音乐学本科",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "AI & CREATIVE PLANNING",
+      "title": "AI 短视频与创意策划 · 微专业",
+      "date": "辅修微专业",
+      "summary": "辅修 AI 短视频与创意策划微专业。",
+      "details": [
+        "已选课程：创意写作与故事策划、AI 短视频创作、智能剪辑与后期制作、大模型与智能新媒体前沿。",
+        "后续培养课程：智能视听项目实训、AI短视频案例分析、AI短视频运营与营销。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "AI 短视频与创意策划",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    }
+  ],
+  "patents": [
+    {
+      "label": "COMPUTER",
+      "title": "全国计算机等级考试二级",
+      "date": "2026.03",
+      "summary": "考试科目：WPS Office 高级应用与设计。",
+      "details": [
+        "2026 年 3 月通过全国计算机等级考试二级。"
+      ],
+      "image": "siyu/certificate-computer-original-crop.png",
+      "imageKind": "photo",
+      "imageAlt": "全国计算机等级考试二级",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-computer-certificate"
+      ]
+    },
+    {
+      "label": "MANDARIN",
+      "title": "普通话水平测试 · 二级甲等",
+      "date": "2024.12",
+      "summary": "取得普通话水平测试二级甲等证书。",
+      "details": [
+        "发证日期：2024 年 12 月 1 日。"
+      ],
+      "image": "siyu/certificate-mandarin-original-crop.png",
+      "imageKind": "photo",
+      "imageAlt": "普通话水平测试 · 二级甲等",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true,
+      "evidence": [
+        "siyu-mandarin-certificate"
+      ]
+    },
+    {
+      "label": "ENGLISH",
+      "title": "大学英语四级",
+      "date": "2026.06",
+      "summary": "已通过大学英语四级考试。",
+      "details": [],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "大学英语四级",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    },
+    {
+      "label": "DESIGN & AI TOOLS",
+      "title": "设计与 AI 创作工具",
+      "date": "数字创作",
+      "summary": "结合界面设计、视觉创作及代码辅助工具，完成设计表达与项目迭代。",
+      "details": [
+        "Figma：用于界面布局、视觉规范及交互原型设计。",
+        "Lovart：用于视觉方案构思、版式设计与创作素材组织。",
+        "Codex：用于网页页面与交互功能的代码实现；本人负责需求说明、视觉与交互设计、预览检查及迭代调整。",
+        "WorkBuddy：用于公益海报的纹理渲染、图形排布与代码辅助；本人负责主题、文案、构图及输出审核。",
+        "即梦：用于图像与视频创作。",
+        "Seedance（豆包视频生成模型）：用于创意视频生成。"
+      ],
+      "image": "siyu/asset-prelude.jpg",
+      "imageKind": "photo",
+      "imageAlt": "AI 工具与创作应用",
+      "imageCaption": "Sally / PERSONAL ARCHIVE",
+      "project": null,
+      "showPoints": true
+    }
+  ]
+}
